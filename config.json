@@ -1,0 +1,21 @@
+{
+
+    "aria2-server": "ws://127.0.0.1:5800/jsonrpc",
+
+    "aria2-key": "xxxxxxxx",
+
+    "bot-key": "1605826602:AAFA8gOXHtWkB-H_7cRnuOgps3UK8_WOwn8",
+
+    "user-id": "1293635786",
+
+    "max-index": 10,
+
+    "sign":"Main Aria2",
+
+    "language":"en",
+
+    "downloadFolder":"C:/aria2/Aria2Data",
+
+    "moveFolder":"C:/aria2/GoogleDrive"
+
+}
